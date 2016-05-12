@@ -6,7 +6,9 @@ Email: daniellplasma@gmail.com
 
 About.me: [daniellmesquita](http://about.me/daniellmesquita)
 
-<img src="https://avatars0.githubusercontent.com/u/6765277?v=3&s=460#right">
+<div style="text-align:right" markdown="1">
+![Daniell Mesquita](https://avatars0.githubusercontent.com/u/6765277?v=3&s=460)
+</div>
 
 ## Objective ##
 Software and hardware projects - including sites, apps, games, operating systems and devices. Highly self motivated and results driven. Take a keen interest in current trends and have a passion for all things beautifull and technology relate.
