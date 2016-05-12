@@ -7,7 +7,7 @@ Email: daniellplasma@gmail.com
 About.me: [daniellmesquita](http://about.me/daniellmesquita)
 
 <div style="text-align:right">
-<img src="https://avatars0.githubusercontent.com/u/6765277?v=3&s=460" width="100" height="100"/>
+<img src="https://avatars0.githubusercontent.com/u/6765277?v=3&s=460" width="150" height="150"/>
 </div>
 
 ## Objective ##
