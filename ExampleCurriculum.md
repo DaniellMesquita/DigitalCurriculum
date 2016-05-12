@@ -1,14 +1,11 @@
 # Curriculum Vitae #
 
+<img src="https://avatars0.githubusercontent.com/u/6765277?v=3&s=460" width="150" height="150"/>
 **Daniell Mesquita**
 
 Email: daniellplasma@gmail.com
 
 About.me: [daniellmesquita](http://about.me/daniellmesquita)
-
-<div style="float: right;">
-<img src="https://avatars0.githubusercontent.com/u/6765277?v=3&s=460" width="150" height="150"/>
-</div>
 
 ## Objective ##
 Software and hardware projects - including sites, apps, games, operating systems and devices. Highly self motivated and results driven. Take a keen interest in current trends and have a passion for all things beautifull and technology relate.
