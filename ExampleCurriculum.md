@@ -1,9 +1,12 @@
 # Curriculum Vitae #
 
 **Daniell Mesquita**
+
 Email: daniellplasma@gmail.com
+
 About.me: [daniellmesquita](http://about.me/daniellmesquita)
-<img style="float:right" src="https://avatars0.githubusercontent.com/u/6765277?v=3&s=460">
+
+<img src="https://avatars0.githubusercontent.com/u/6765277?v=3&s=460#right">
 
 ## Objective ##
 Software and hardware projects - including sites, apps, games, operating systems and devices. Highly self motivated and results driven. Take a keen interest in current trends and have a passion for all things beautifull and technology relate.
@@ -24,4 +27,4 @@ Autodidate.
 ## Language Proficiency ##
 Good command over English and colloquial portuguese.
 
-Note: Inspirated by http://resumeoke.cf/curriculum-vitae-examples-in-pdf.html.
+**Note**: Inspirated by http://resumeoke.cf/curriculum-vitae-examples-in-pdf.html.
